@@ -16,7 +16,7 @@
 //     }
 // }
 
-
+// Решение: 
 public class Task2 {
     public static void main (String [] args){
         String[][] arr = {{"1","2"},{"3",null},{"1","6"}};
@@ -40,7 +40,7 @@ public class Task2 {
     }
 }
 
-/* 
+/* Второй вариант решения: 
 public class Seminar2_2 {
 
     public static void main(String[] args) {
